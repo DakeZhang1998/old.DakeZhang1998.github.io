@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Dake&#39;s Academic Website</title>
-    <link>https://DakeZhang1998.github.io/publication-type/1/</link>
-      <atom:link href="https://DakeZhang1998.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <title>7 | Dake&#39;s Academic Website</title>
+    <link>https://DakeZhang1998.github.io/publication-type/7/</link>
+      <atom:link href="https://DakeZhang1998.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DakeZhang1998.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://DakeZhang1998.github.io/publication-type/1/</link>
+      <title>7</title>
+      <link>https://DakeZhang1998.github.io/publication-type/7/</link>
     </image>
     
     <item>
-      <title>Learning Trustworthy Web Sources to Derive Correct Answers and Reduce Health Misinformation in Search</title>
-      <link>https://DakeZhang1998.github.io/publication/sigir-2022/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://DakeZhang1998.github.io/publication/sigir-2022/</guid>
+      <title>Reducing Health Misinformation in Search Results</title>
+      <link>https://DakeZhang1998.github.io/publication/master-thesis/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://DakeZhang1998.github.io/publication/master-thesis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
